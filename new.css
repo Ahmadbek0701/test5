@@ -1,0 +1,42 @@
+.l1{
+    color: red;
+    
+}
+ul{
+    list-style: none;
+}
+.container{
+    width: 1440px;
+    display: flex;
+}
+.l2{
+    color: red;
+}
+.l3{
+    background-color: red;
+    display: inline;
+    color: white;
+}
+.box{
+    width: 250px;
+}
+.mg1{
+    width: 20px;
+    height: 20px;
+}
+.box{
+    display: flex;
+}
+.box2{
+    display: flex;
+}
+.mg2{
+    width: 20px;
+    height: 18px;
+}
+.nf{
+    margin-left: 7px;
+}
+.nfw{
+    margin-left: 7px;
+}
